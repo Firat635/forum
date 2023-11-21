@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    height: auto;
+    width: auto;
+    display: flex;
+    align-items: center;
+    
+    flex-direction: column;
+
+    
+}
+p{
+    color: gray;
+    margin-top: 20px;
+    
+}
+input{
+   
+    border:gray solid 1px;
+    padding: 10px;
+    width: 300px;
+}
+.btn{
+    padding: 13px;
+    width: 120px;
+    background-color: darkslateblue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
